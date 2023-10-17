@@ -71,12 +71,12 @@ This folder contains data that was produced after scraping article [ORES scores]
 
 - revision_id: The article Revision ID
 - article_quality: The ORES score as defined by [Wikipedia content assessment](https://en.wikipedia.org/wiki/Wikipedia:Content_assessment)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- FA- Featured article
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- GA - Good article (sometimes called A-class)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- B - B-class article
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- C - C-class article
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Start - Start-class article
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Stub - Stub-class article
+- FA- Featured article
+- GA - Good article (sometimes called A-class)
+- B - B-class article
+- C - C-class article
+- Start - Start-class article
+- Stub - Stub-class article
 
 ###### regional_divisions.csv
 - This data is the cleaned aggregation of data contained in file *US States by Region - US Census Bureau.xlsx* from folder input_data.
